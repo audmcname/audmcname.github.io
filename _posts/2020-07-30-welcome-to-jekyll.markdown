@@ -6,10 +6,13 @@ categories: jekyll update
 ---
 This is the default post!
 
-Leaving it in here to have a to-do file:
+### Leaving it in here to have a to-do file:
 
-Make up a favicon, figure out what information I want to put on here,
-link to other projects?
+[ ] Make up a favicon
+[ ] figure out what information I want to put on here,
+[ ] link to other projects?
+[ ] make social media preview pics
+[ ] generally get some content up on here
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
