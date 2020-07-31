@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Hello, World
+Watch out, world: site under construction

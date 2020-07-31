@@ -4,6 +4,13 @@ title:  "Welcome to Jekyll!"
 date:   2020-07-30 19:49:26 -0700
 categories: jekyll update
 ---
+This is the default post!
+
+Leaving it in here to have a to-do file:
+
+Make up a favicon, figure out what information I want to put on here,
+link to other projects?
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
