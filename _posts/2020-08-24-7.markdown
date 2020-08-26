@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Page 7"
+category: earth
+tags: comics earth
+---
+
+![Page 7](/assets/7.png)
+
+{% include navigation.html %}

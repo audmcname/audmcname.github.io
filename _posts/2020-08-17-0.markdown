@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Cover"
+category: earth
+tags: comics earth
+---
+
+![Cover](/assets/0.png)
+
+{% include navigation.html %}
