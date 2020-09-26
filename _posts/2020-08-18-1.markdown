@@ -5,6 +5,6 @@ category: earth
 tags: comics earth
 ---
 
-![Page 1](/assets/1.png)
+![Page 1](/assets/earthcomic/1.png)
 
 {% include navigation.html %}

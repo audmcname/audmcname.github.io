@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Cover"
+category: math
+tags: comics math
+---
+
+![Page 0](/assets/mathcomic/0.png)
+
+{% include navigation.html %}

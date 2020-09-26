@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Page 9"
+category: math
+tags: comics math
+---
+
+![Page 9](/assets/mathcomic/9.png)
+
+{% include navigation.html %}
