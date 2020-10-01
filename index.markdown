@@ -15,7 +15,7 @@ in Summer 2020)
 [College Math Notes: a comic](math/2020/09/13/0)
 ----------------------------
 
-A comic covering the things I wished I knew before beginning college
+Covering the things I wished I knew before beginning college
 math (created for HC 441 in Winter 2019)
 
 [A Sixth Transition](sixth/2020/09/30/0)

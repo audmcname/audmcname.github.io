@@ -23,7 +23,7 @@ author:
   name: "A. McNamee"
   email: audmcname@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A collection of things that I've made with my good left hand.
+  A collection of things I made with my good left hand.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://audramcnamee.com # the base hostname & protocol for your site, e.g. http://example.com
