@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Cover"
+category: sixth
+tags: comics sixth
+---
+
+![Cover](/assets/sixthtransition/0.png)
+
+{% include navigation.html %}
