@@ -12,6 +12,15 @@ title: Home
 A comic about the Earth as object and symbol (created for ENVS 411
 in Summer 2020)
 
+[A trip into Serotonin](https://comics.uoregon.edu/?page_id=2090)
+----------------------
+
+*External link; comic is half way down page* 
+
+Created in collaboration with
+Professor Luca Mazzucato in Spring 2020, explaining some aspects 
+of his research
+
 [College Math Notes: a comic](math/2020/09/13/0)
 ----------------------------
 
