@@ -11,14 +11,15 @@ title: Home
 
 A comic about the Earth as object and symbol (created Summer 2020 for ENVS 411)
 
-[A trip into Serotonin](https://ifs.uoregon.edu/outreach/comics/)
+[A trip into Serotonin](https://comics.uoregon.edu/wp-content/uploads/2020/09/serotonin_final-With-Watermark.pdf)
 ----------------------
 
 *External link* 
 
 Created Spring 2020 in collaboration with
 Dr. Luca Mazzucato, explaining how serotonin impacts the brain. Funded
-by the University of Oregon Science and Comics Initiative
+by the [University of Oregon Science and Comics
+Initiative](https://ifs.uoregon.edu/outreach/comics/)
 
 [//]: # (Old link: https://comics.uoregon.edu/?page_id=2090)
 
