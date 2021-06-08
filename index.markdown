@@ -6,6 +6,20 @@ layout: home
 title: Home
 ---
 
+[Alice in Wonderland](wonderland/2021/05/04/6)
+---------------------
+
+Pages 6-10 of an adaptation of Alice in Wonderland; it's the 1920s,
+Alice Liddell is a journalist, her sister has gone missing. Written
+by a classmate, drawn by me (created Spring 2021 for ENG 407)
+
+[Inhuman Resources](https://j4red.itch.io/inhuman-resources)
+-------------------
+
+*External link*
+
+"Welcome to your first day at the Department of Organic Manpower! You have been tasked with a job of the utmost importance-- helping your lowly coworkers navigate to their target destinations." A game made in collaboration with classmates (created Spring 2021 for CIS 410)
+
 [The Earth](earth/2020/08/17/0)
 ----------
 

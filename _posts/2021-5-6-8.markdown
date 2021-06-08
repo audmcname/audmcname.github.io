@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Page 8"
+category: wonderland
+tags: comics wonderland
+---
+
+![Cover](/assets/aliceinwonderland/8.png)
+
+{% include navigation.html %}
