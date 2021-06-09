@@ -16,9 +16,7 @@ by a classmate, drawn by me (created Spring 2021 for ENG 407)
 [Inhuman Resources](https://j4red.itch.io/inhuman-resources)
 -------------------
 
-*External link*
-
-"Welcome to your first day at the Department of Organic Manpower! You have been tasked with a job of the utmost importance-- helping your lowly coworkers navigate to their target destinations." A game made in collaboration with classmates (created Spring 2021 for CIS 410)
+*External link* "Welcome to your first day at the Department of Organic Manpower! You have been tasked with a job of the utmost importance-- helping your lowly coworkers navigate to their target destinations." A game made in collaboration with classmates (created Spring 2021 for CIS 410)
 
 [The Earth](earth/2020/08/17/0)
 ----------
@@ -28,9 +26,7 @@ A comic about the Earth as object and symbol (created Summer 2020 for ENVS 411)
 [A trip into Serotonin](https://comics.uoregon.edu/wp-content/uploads/2020/09/serotonin_final-With-Watermark.pdf)
 ----------------------
 
-*External link* 
-
-Created Spring 2020 in collaboration with
+*External link* Created Spring 2020 in collaboration with
 Dr. Luca Mazzucato, explaining how serotonin impacts the brain. Funded
 by the [University of Oregon Science and Comics
 Initiative](https://ifs.uoregon.edu/outreach/comics/)
