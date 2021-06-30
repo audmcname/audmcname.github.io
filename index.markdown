@@ -6,7 +6,7 @@ layout: home
 title: Home
 ---
 
-[Illustrations for Video Essays](video/2021/06/30)
+[Illustrations for Video Essays](video/2021/06/30/videoessays)
 -------------------
 A collection of links to video essays by Zoe Bee that I've created illustrations for
 

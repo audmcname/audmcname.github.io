@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Video Essay Illustrations"
-category: videos
-tags: videos
+category: video
+tags: video
 ---
 
 [Grading is a Scam (and Motivation is a Myth) | A Professor Explains](https://www.youtube.com/watch?v=fe-SZ_FPZew)
