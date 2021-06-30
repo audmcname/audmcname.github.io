@@ -6,6 +6,10 @@ layout: home
 title: Home
 ---
 
+[Illustrations for Video Essays](video/2021/06/30)
+-------------------
+A collection of links to video essays by Zoe Bee that I've created illustrations for
+
 [Alice in Wonderland](wonderland/2021/05/04/6)
 ---------------------
 
