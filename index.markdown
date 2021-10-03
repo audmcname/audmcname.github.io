@@ -6,7 +6,7 @@ layout: home
 title: Home
 ---
 
-[Billboards and Beautification](billboard/2021/10/03)
+[Billboards and Beautification](billboard/2021/10/3/0)
 -------------------
 Examining the Hamilton Sign near Chehalis, WA-- why is it there? Is it even legal? Created with A. Service
 
