@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Page 6"
+category: billboard
+tags: comics billboard
+---
+
+![Cover](/assets/billboardzine/6.png)
+
+{% include navigation.html %}

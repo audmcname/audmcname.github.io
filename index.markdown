@@ -6,6 +6,10 @@ layout: home
 title: Home
 ---
 
+[Billboards and Beautification](billboard/2021/10/03)
+-------------------
+Examining the Hamilton Sign near Chehalis, WA-- why is it there? Is it even legal? Created with A. Service
+
 [Illustrations for Video Essays](video/2021/06/30/videoessays)
 -------------------
 A collection of links to video essays by Zoe Bee that I've created illustrations for

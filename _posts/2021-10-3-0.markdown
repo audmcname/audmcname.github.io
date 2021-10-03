@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Cover"
+category: billboard
+tags: comics billboard
+---
+
+![Cover](/assets/billboardzine/0.png)
+
+{% include navigation.html %}
