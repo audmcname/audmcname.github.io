@@ -27,7 +27,7 @@ You’re right near Chehalis, WA, and you see in the distance--
 
 The two foot tall baby-blue eyes of Uncle Sam boring into you. Next to a far-right cold take on a 13x41 foot readerboard.
 
-NED: "That's pretty weird, right? What’s up with that?"
+**NED**: "That's pretty weird, right? What’s up with that?"
 
 
 ### Page Two
@@ -166,23 +166,23 @@ Hamilton died in 2004. I'd love to miss him, but he won’t go away [17].
 
 **Citations**
 
-Mark Lawton, "‘Uncle Sam’ Billboard Owner Dies," *The Daily Chronicle*, November 10, 2004, [https://www.chronline.com/stories/uncle-sam-billboard-owner-dies,236138](https://www.chronline.com/stories/uncle-sam-billboard-owner-dies,236138).
- Zoe Sayler, "A Highway, Divided: What Drives Opposition to I-5’s Uncle Sam Sign?," *Seattle Met*, March 1, 2021, [https://www.seattlemet.com/news-and-city-life/2021/03/what-drives-opposition-to-i5-uncle-sam-hamilton-sign-lewis-county-lollipop-guild-washington](https://www.seattlemet.com/news-and-city-life/2021/03/what-drives-opposition-to-i5-uncle-sam-hamilton-sign-lewis-county-lollipop-guild-washington).
-Brittany Voie, "Voie Commentary: Slade Gorton and the Infamous Hamilton Uncle Sam Billboard," *The Daily Chronicle*, July 28, 2017, [https://www.chronline.com/stories/voie-commentary-slade-gorton-and-the-infamous-hamilton-uncle-sam-billboard,24896](https://www.chronline.com/stories/voie-commentary-slade-gorton-and-the-infamous-hamilton-uncle-sam-billboard,24896).
-"Highway Beautification Act Media Kit," LBJ Presidential Library, accessed July 31, 2021, [http://www.lbjlibrary.org/mediakits/highwaybeautification/](http://www.lbjlibrary.org/mediakits/highwaybeautification/).
-The State of Washington, Appellant, v. Alfred R. Hamilton, et al, Respondents (Washington Court of Appeals January 17, 1980).
-"Uncle Sam Billboard Wins Legal Tussle," *The Seattle Times*, December 24, 1979, 
-The State of Washington, Appellant, v. Alfred R. Hamilton, et al, Respondents.
-Mark Lawton, "‘Uncle Sam’ Billboard Owner Dies," 
-Erik Lacitis, "I-5’s Uncle Sam Billboard: 50 Years and Still Ticked off near Chehalis," *The Seattle Times*, October 21, 2017, sec. Local News, [https://www.seattletimes.com/seattle-news/i-5s-uncle-sam-50-years-and-still-ticked-off-near-chehalis/](https://www.seattletimes.com/seattle-news/i-5s-uncle-sam-50-years-and-still-ticked-off-near-chehalis/).
-Brittany Voie, "Brittany Voie Commentary: Hamilton Uncle Sam Billboard Is a Landmark in a ‘Legal Twilight Zone,’" *The Daily Chronicle*, October 13, 2017, [https://www.chronline.com/stories/brittany-voie-commentary-hamilton-uncle-sam-billboard-is-a-landmark-in-a-legal-twilight-zone,22592](https://www.chronline.com/stories/brittany-voie-commentary-hamilton-uncle-sam-billboard-is-a-landmark-in-a-legal-twilight-zone,22592).
-Erik Lacitis, "I-5’s Uncle Sam Billboard: 50 Years and Still Ticked off near Chehalis," 
-Shaun, *PragerU & The Law*, 2021, [https://www.youtube.com/watch?v=MCTp_kYwz1E](https://www.youtube.com/watch?v=MCTp_kYwz1E).
-Brittany Voie, "Voie Commentary: The Curious Case of the Loved and Loathed Hamilton Sign," *The Daily Chronicle,* July 21, 2017, [https://www.chronline.com/stories/voie-commentary-the-curious-case-of-the-loved-and-loathed-hamilton-sign,25076](https://www.chronline.com/stories/voie-commentary-the-curious-case-of-the-loved-and-loathed-hamilton-sign,25076).
-Brittany Voie, "Brittany Voie Commentary: Hamilton Uncle Sam Billboard Is a Landmark in a ‘Legal Twilight Zone,’"
- Zoe Sayler, "A Highway, Divided: What Drives Opposition to I-5’s Uncle Sam Sign?," 
-Ibid
-"Uncle Sam Right Wing Billboard - Chehalis, WA," Yelp, accessed October 1, 2021, [https://www.yelp.com/biz/uncle-sam-right-wing-billboard-chehalis?q=all+hat](https://www.yelp.com/biz/uncle-sam-right-wing-billboard-chehalis?q=all+hat).
+1. Mark Lawton, "‘Uncle Sam’ Billboard Owner Dies," *The Daily Chronicle*, November 10, 2004, [https://www.chronline.com/stories/uncle-sam-billboard-owner-dies,236138](https://www.chronline.com/stories/uncle-sam-billboard-owner-dies,236138).
+2. Zoe Sayler, "A Highway, Divided: What Drives Opposition to I-5’s Uncle Sam Sign?," *Seattle Met*, March 1, 2021, [https://www.seattlemet.com/news-and-city-life/2021/03/what-drives-opposition-to-i5-uncle-sam-hamilton-sign-lewis-county-lollipop-guild-washington](https://www.seattlemet.com/news-and-city-life/2021/03/what-drives-opposition-to-i5-uncle-sam-hamilton-sign-lewis-county-lollipop-guild-washington).
+3. Brittany Voie, "Voie Commentary: Slade Gorton and the Infamous Hamilton Uncle Sam Billboard," *The Daily Chronicle*, July 28, 2017, [https://www.chronline.com/stories/voie-commentary-slade-gorton-and-the-infamous-hamilton-uncle-sam-billboard,24896](https://www.chronline.com/stories/voie-commentary-slade-gorton-and-the-infamous-hamilton-uncle-sam-billboard,24896).
+4. "Highway Beautification Act Media Kit," LBJ Presidential Library, accessed July 31, 2021, [http://www.lbjlibrary.org/mediakits/highwaybeautification/](http://www.lbjlibrary.org/mediakits/highwaybeautification/).
+5. The State of Washington, Appellant, v. Alfred R. Hamilton, et al, Respondents (Washington Court of Appeals January 17, 1980).
+6. "Uncle Sam Billboard Wins Legal Tussle," *The Seattle Times*, December 24, 1979, 
+7. The State of Washington, Appellant, v. Alfred R. Hamilton, et al, Respondents.
+8. Mark Lawton, "‘Uncle Sam’ Billboard Owner Dies," 
+9. Erik Lacitis, "I-5’s Uncle Sam Billboard: 50 Years and Still Ticked off near Chehalis," *The Seattle Times*, October 21, 2017, sec. Local News, [https://www.seattletimes.com/seattle-news/i-5s-uncle-sam-50-years-and-still-ticked-off-near-chehalis/](https://www.seattletimes.com/seattle-news/i-5s-uncle-sam-50-years-and-still-ticked-off-near-chehalis/).
+10. Brittany Voie, "Brittany Voie Commentary: Hamilton Uncle Sam Billboard Is a Landmark in a ‘Legal Twilight Zone,’" *The Daily Chronicle*, October 13, 2017, [https://www.chronline.com/stories/brittany-voie-commentary-hamilton-uncle-sam-billboard-is-a-landmark-in-a-legal-twilight-zone,22592](https://www.chronline.com/stories/brittany-voie-commentary-hamilton-uncle-sam-billboard-is-a-landmark-in-a-legal-twilight-zone,22592).
+11. Erik Lacitis, "I-5’s Uncle Sam Billboard: 50 Years and Still Ticked off near Chehalis," 
+12. Shaun, *PragerU & The Law*, 2021, [https://www.youtube.com/watch?v=MCTp_kYwz1E](https://www.youtube.com/watch?v=MCTp_kYwz1E).
+13. Brittany Voie, "Voie Commentary: The Curious Case of the Loved and Loathed Hamilton Sign," *The Daily Chronicle,* July 21, 2017, [https://www.chronline.com/stories/voie-commentary-the-curious-case-of-the-loved-and-loathed-hamilton-sign,25076](https://www.chronline.com/stories/voie-commentary-the-curious-case-of-the-loved-and-loathed-hamilton-sign,25076).
+14. Brittany Voie, "Brittany Voie Commentary: Hamilton Uncle Sam Billboard Is a Landmark in a ‘Legal Twilight Zone,’"
+15. Zoe Sayler, "A Highway, Divided: What Drives Opposition to I-5’s Uncle Sam Sign?," 
+16. Ibid
+17. "Uncle Sam Right Wing Billboard - Chehalis, WA," Yelp, accessed October 1, 2021, [https://www.yelp.com/biz/uncle-sam-right-wing-billboard-chehalis?q=all+hat](https://www.yelp.com/biz/uncle-sam-right-wing-billboard-chehalis?q=all+hat).
 
 Citation links and full transcript at [audmcname.com](audmcname.com)
 

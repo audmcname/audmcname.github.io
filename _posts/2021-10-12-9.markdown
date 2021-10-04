@@ -9,4 +9,4 @@ tags: comics billboard
 
 {% include navigation.html %}
 
-[Transcript and links to sources]((billboard/2021/10/13/billboardtranscript))
+[Transcript and links to sources](/billboard/2021/10/13/billboardtranscript)
