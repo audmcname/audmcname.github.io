@@ -5,8 +5,8 @@ permalink: /about/
 ---
 {% include left-image.html image_path="/assets/profile.png" alt="profile
 picture" description="I'm an undergrad at the University of Oregon,
-studying Math and Computer Science, Environmental Studies, and Comics
-and Cartoon Studies; my thesis will combine some subset of these
+studying Math and Computer Science and Comics
+and Cartoon Studies; my thesis will combine the
 subjects. I plan to graduate Spring 2022."%}
 
 <!-- ![profile picture](/assets/profile.png){: style="float: left";

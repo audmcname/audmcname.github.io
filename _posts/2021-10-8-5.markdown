@@ -8,3 +8,5 @@ tags: comics billboard
 ![Cover](/assets/billboardzine/5.png)
 
 {% include navigation.html %}
+
+[Transcript]((billboard/2021/10/13/billboardtranscript))

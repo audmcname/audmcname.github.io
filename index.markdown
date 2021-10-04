@@ -6,9 +6,9 @@ layout: home
 title: Home
 ---
 
-[Billboards vs Beautification](billboard/2021/10/03/0)
+[Billboards vs. Beautification](billboard/2021/10/03/0)
 -------------------
-Comic examining the Hamilton Sign near Chehalis, WA-- why is it there? Is it even legal? Created in collaboration with A. Service
+Comic examining the Hamilton Sign near Chehalis, WA-- why is it there? Is it even legal? Created in collaboration with [A. Service](http://alliaservice.com)
 
 [Illustrations for Video Essays](video/2021/06/30/videoessays)
 -------------------
