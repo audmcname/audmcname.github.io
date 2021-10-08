@@ -164,8 +164,6 @@ Hamilton died in 2004. I'd love to miss him, but he won’t go away [17].
 
 ### [Citations](/billboard/2021/10/12/9)
 
-**Citations**
-
 1. Mark Lawton, "‘Uncle Sam’ Billboard Owner Dies," *The Daily Chronicle*, November 10, 2004, [https://www.chronline.com/stories/uncle-sam-billboard-owner-dies,236138](https://www.chronline.com/stories/uncle-sam-billboard-owner-dies,236138).
 2. Zoe Sayler, "A Highway, Divided: What Drives Opposition to I-5’s Uncle Sam Sign?," *Seattle Met*, March 1, 2021, [https://www.seattlemet.com/news-and-city-life/2021/03/what-drives-opposition-to-i5-uncle-sam-hamilton-sign-lewis-county-lollipop-guild-washington](https://www.seattlemet.com/news-and-city-life/2021/03/what-drives-opposition-to-i5-uncle-sam-hamilton-sign-lewis-county-lollipop-guild-washington).
 3. Brittany Voie, "Voie Commentary: Slade Gorton and the Infamous Hamilton Uncle Sam Billboard," *The Daily Chronicle*, July 28, 2017, [https://www.chronline.com/stories/voie-commentary-slade-gorton-and-the-infamous-hamilton-uncle-sam-billboard,24896](https://www.chronline.com/stories/voie-commentary-slade-gorton-and-the-infamous-hamilton-uncle-sam-billboard,24896).
