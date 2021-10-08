@@ -6,7 +6,7 @@ tags: transcript billboard
 ---
 
 
-### Cover Page:
+### [Cover Page](/billboard/2021/10/03/0)
 
 **TITLE:** Billboards vs Beautification
 
@@ -17,7 +17,7 @@ tags: transcript billboard
 A. Service and A. McNamee
 
 
-[### Page One](/billboard/2021/09/30/0)
+### [Page One](/billboard/2021/10/04/1)
 
 *[ID: a comic with five panels, The first three panels show the steering wheel and dashboard of a car from the driver’s perspective. Through the dashboard the freeway is visible. A billboard with the words "FREEDOM IS DANGEROUS! SLAVERY IS PEACEFUL" written on one side and a drawing of uncle sam on the right slowly comes into view (actual sign, circa 2017). NED the education demon crouches over the sign and wraps its long arms over the words.]*
 
@@ -30,7 +30,7 @@ The two foot tall baby-blue eyes of Uncle Sam boring into you. Next to a far-rig
 **NED**: "That's pretty weird, right? What’s up with that?"
 
 
-### Page Two
+### [Page Two](/billboard/2021/10/05/2)
 
 The sign’s creator is this guy, Alfred Hamilton. *[ID: a drawing of a middle aged white man staring into the distance.]*
 
@@ -50,7 +50,7 @@ Lady Bird’s advocacy ensured the Highway Beautification Act’s passage; LBJ s
 
 **NED:** "happy birthday"
 
-### Page Three
+### [Page Three](/billboard/2021/10/06/3)
 
 *[ID: there are four different versions of the uncle sam sign, each has text on one side and a slightly different drawing of uncle sam on the other, there are four NED’s all are small, the same size as the signs, their arms and legs are wiggly, two NED’s are solid black and two completely white.]*
 
@@ -69,7 +69,7 @@ Lady Bird’s advocacy ensured the Highway Beautification Act’s passage; LBJ s
 
 **NED:** "Hamilton had to obliquely weigh in on the islamophobic consipiracy theories about Tom Hank’s film The Da Vinci Code in 2004."
 
-### Page Four: 
+### [Page Four](/billboard/2021/10/07/4) 
 
 **[Unidentified silhouette of a face:]** "But NED,"
 
@@ -89,7 +89,7 @@ The only permissible billboards? "Signs advertising activities conducted on the 
 
 In 1971 Washington State sued Hamilton, but the appeals court sided with Uncle Sam: even though the ad only took up 8.9% of the sign, the government had no right to say that the sign wasn’t an ad [7]. So Sam got to say.
 
-### Page Five: 
+### [Page Five](/billboard/2021/10/08/5)
 
 Hamilton sold his farm in 1995 *[ID: Uncle sam sign that reads "NONCOMMUNIST STRAW FOR SALE" a small lawn sign in front of it reads "SOLD, national frozen foods."]*
 
@@ -101,7 +101,7 @@ According to UW law professor Hugh Spitzer that’s because the Scenic Vistas Ac
 
 *[ID: a rear view mirror with an uncle sam sign in it, the sign reads: "BACKGROUND CHECKS LET’S START WITH THE PRESIDENT"]* So Hamilton gets the last word. For fifty years and counting.
 
-### Page Six
+### [Page Six](/billboard/2021/10/09/6)
 
 *[ID: NED’s upper body with very long arms holding up text boxes.]*
 
@@ -117,7 +117,7 @@ Hamilton told the Oregonian that his goal with the sign was to "make people thin
 
 The messages he wrote were often fear mongering and mean spirited, irony-dense, designed for an emotional response. Does Uncle Sam represent Hamilton’s perspective or the overbearing government? (why are his eyes like that?)
 
-### Page 7
+### [Page 7](/billboard/2021/10/10/7)
 
 Uncle Sam has been controversial since 1967 (the Centralia-Chehalis Chamber of Commerce alone gets a call at least once a week) [14]. A common editorial response to these complain is:
 
@@ -140,7 +140,7 @@ He got a plot of land along the highway but it’s not zoned for a billboard-siz
 He put up a smaller sign but it was puny next to the hamilton sign, and defaced within 24 hours. He continues working on the sign and related projects. He feels he owes it to other rural LGBTQ+ kids to keep going [16]. There won’t be a responding billboard anytime soon.
 
 
-### Page 8:
+### [Page 8](/billboard/2021/10/11/8)
 
 *[ID NED’s upper body leans into first panel from the top of the page, NED has its head resting on its hands]*
 
@@ -162,7 +162,7 @@ Hamilton died in 2004. I'd love to miss him, but he won’t go away [17].
 
 *[ID: there are three panels in a row at the bottom of the page, the first shows a steering wheel and dashboard from the perspective of the driver, looking out over an empty road. The second panel shows the driver's seat and steering wheel from the perspective of the passenger seat, revealing that NED is driving. NED has one hand on the wheel and the other behind its head. The third panel shows the uncle sam sign with a car driving past it. The sign reads: "TAKE THAT LADY BIRD."]*
 
-### Page 9
+### [Citations](/billboard/2021/10/12/9)
 
 **Citations**
 
