@@ -17,7 +17,7 @@ tags: transcript billboard
 A. Service and A. McNamee
 
 
-### Page One
+[### Page One](/billboard/2021/09/30/0)
 
 *[ID: a comic with five panels, The first three panels show the steering wheel and dashboard of a car from the driver’s perspective. Through the dashboard the freeway is visible. A billboard with the words "FREEDOM IS DANGEROUS! SLAVERY IS PEACEFUL" written on one side and a drawing of uncle sam on the right slowly comes into view (actual sign, circa 2017). NED the education demon crouches over the sign and wraps its long arms over the words.]*
 

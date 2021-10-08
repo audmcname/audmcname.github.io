@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Citations"
+title: "Back cover"
 category: billboard
 tags: comics billboard
 ---
 
-![Cover](/assets/billboardzine/9.png)
+![Cover](/assets/billboardzine/10.png)
 
 {% include navigation.html %}
 
