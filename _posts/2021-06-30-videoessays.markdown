@@ -13,5 +13,4 @@ _A collection of links to video essays by Zoe Bee that I've created illustration
 
 * [Grading is a Scam \(and Motivation is a Myth\) \| A Professor Explains](https://www.youtube.com/watch?v=fe-SZ_FPZew)
 
-
-
+* [Puns are Good, Actually](https://www.youtube.com/watch?v=t03W1OW7lvo)

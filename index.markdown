@@ -6,51 +6,74 @@ layout: home
 title: Home
 ---
 
+<br>
+<img align="left" src="assets/thumbnails/artofnews.png" style="padding:10px; height: 100px">
+
+[The Art of the News: Comics Journalism](https://jsma.uoregon.edu/ComicsJournalism)
+-------------------
+
+(External Link) Portraits of 12 of the featured comics journalists for the University of Oregon [Jordan Schnitzer Art Museum's _The Art of The News: Comics Journalism_ exhibition](https://jsma.uoregon.edu/ComicsJournalism), conducted four interviews for the accompanying [catalog](https://issuu.com/jsmauo/docs/art_of_the_news_catalog-digital-v2) (Fall 2021).
+
+<img align="left" src="assets/thumbnails/bill.png" style="padding:10px; height: 100px">
+
 [Billboards vs. Beautification](billboard/2021/10/03/0)
 -------------------
-Comic examining the Hamilton Sign near Chehalis, WA-- why is it there? Is it even legal? [Complete transcript and sources here](/billboard/2021/10/13/billboardtranscript). Created in collaboration with [A. Service](http://alliaservice.com)
+Comic examining the Hamilton Sign near Chehalis, WA-- why is it there? Is it even legal? [Complete transcript and sources here](/billboard/2021/10/13/billboardtranscript). Created in collaboration with [A. Service](http://alliaservice.com).
+
+<br>
+<img align="left" src="assets/thumbnails/videoessays.png" style="padding:10px; height: 100px">
 
 [Illustrations for Video Essays](video/2021/06/30/videoessays)
 -------------------
-A collection of links to video essays by Zoe Bee that I've created illustrations for
+Video essays by Zoe Bee that I've made illustrations for.
+
+<br>
+<img align="left" src="assets/thumbnails/alice.png" style="padding:10px; height: 100px">
 
 [Alice in Wonderland](wonderland/2021/05/04/6)
 ---------------------
-
-Pages 6-10 of an adaptation of Alice in Wonderland; it's the 1920s,
+Pages 6-10 of an adaptation of Alice in Wonderland. It's the 1920s,
 Alice Liddell is a journalist, her sister has gone missing. Written
-by a classmate, drawn by me (created Spring 2021 for ENG 407)
+by a classmate, drawn by me (Spring 2021, ENG 407)
+
+
+<img align="left" src="assets/thumbnails/inhuman.png" style="padding:10px; height: 100px">
 
 [Inhuman Resources](https://j4red.itch.io/inhuman-resources)
 -------------------
+(External link) "Welcome to your first day at the Department of Organic Manpower! You have been tasked with a job of the utmost importance-- helping your lowly coworkers navigate to their target destinations." A game made in collaboration with classmates (Spring 2021, CIS 410)
 
-*External link* "Welcome to your first day at the Department of Organic Manpower! You have been tasked with a job of the utmost importance-- helping your lowly coworkers navigate to their target destinations." A game made in collaboration with classmates (created Spring 2021 for CIS 410)
+<br>
+<img align="left" src="assets/thumbnails/earth.png" style="padding:10px; height: 100px">
 
 [The Earth](earth/2020/08/17/0)
 ----------
+A comic about the Earth as object and symbol (Summer 2020, ENVS 411)
 
-A comic about the Earth as object and symbol (created Summer 2020 for ENVS 411)
+<br>
+<img align="left" src="assets/thumbnails/serotonin.png" style="padding:10px; height: 100px">
 
 [A trip into Serotonin](https://comics.uoregon.edu/wp-content/uploads/2020/09/serotonin_final-With-Watermark.pdf)
 ----------------------
-
-*External link* Created Spring 2020 in collaboration with
-Dr. Luca Mazzucato, explaining how serotonin impacts the brain. Funded
+(External link) Comic explaining how serotonin impacts the brain, created Spring 2020 in collaboration with
+Dr. Luca Mazzucato. Funded
 by the [University of Oregon Science and Comics
-Initiative](https://ifs.uoregon.edu/outreach/comics/)
+Initiative](https://ifs.uoregon.edu/outreach/comics/).
 
 [//]: # (Old link: https://comics.uoregon.edu/?page_id=2090)
 
 
+<img align="left" src="assets/thumbnails/mathnotes.png" style="padding:10px; height: 100px">
+
 [College Math Notes: a comic](math/2020/09/13/0)
 ----------------------------
-
 Covering the things I wished I knew before beginning college
-math (created Winter 2020 for HC 441)
+math (Winter 2020, HC 441).
+
+<br>
+<img align="left" src="assets/thumbnails/sixthtransition.png" style="padding:10px; height: 100px">
 
 [A Sixth Transition](sixth/2020/09/30/0)
 -------------------
-
-A comic composed of non sequitur panel transitions (created Spring
-2019 for ENG 280)
-
+A comic composed of non sequitur panel transitions (Spring
+2019, ENG 280).
