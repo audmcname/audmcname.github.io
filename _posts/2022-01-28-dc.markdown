@@ -1,0 +1,12 @@
+
+---
+layout: post
+title: "01/28/22 Back"
+category: dailycomic
+tags: comics dailycomic
+---
+![Daily comic]({{ site.baseurl }}/assets/dailycomic/01_28_22.png)
+![Daily comic 2]({{ site.baseurl }}/assets/dailycomic/01_28_22_2.png)
+
+{% include navigation.html %}
+
