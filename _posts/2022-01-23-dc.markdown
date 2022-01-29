@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "1/23/22"
+title: "01/23/22"
 category: dailycomic
 tags: comics dailycomic
 ---
-![Daily comic]({{ site.baseurl }}/assets/dailycomic/1_23_22.png)
+![Daily comic]({{ site.baseurl }}/assets/dailycomic/01_23_22.png)
 
 
 {% include navigation.html %}
