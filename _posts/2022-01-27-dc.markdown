@@ -5,3 +5,5 @@ category: dailycomic
 tags: comics dailycomic
 ---
 ![Daily comic]({{ site.baseurl }}/assets/dailycomic/1_27_22.png)
+
+{% include navigation.html %}
