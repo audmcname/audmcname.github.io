@@ -25,7 +25,9 @@ Comic examining the Hamilton Sign near Chehalis, WA-- why is it there? Is it eve
 
 [Illustrations for Video Essays](video/2021/06/30/videoessays)
 -------------------
-Video essays by Zoe Bee that I've made illustrations for.
+Check out the illustrations in these Zoe Bee videos (some of the
+illustrations are also posted on my
+[instagram](http://instagram.com/audmcname/)).
 
 <br>
 <img align="left" src="assets/thumbnails/alice.png" style="padding:10px; height: 100px">
