@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Page 3"
+category: jello
+tags: comics jello
+---
+
+![Cover](/assets/jellozine/3.png)
+
+{% include navigation.html %}
+
+[Transcript](/jello/2022/01/25/jellotranscript)
