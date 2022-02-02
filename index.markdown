@@ -11,7 +11,12 @@ title: Home
 
 [Jell-O Pages](jello/2022/01/18/0)
 -------------------
-The history of gelatin and Jell-O from the 19th century to the present. Published in University of Oregon's comics magazine _ArtDucko_ issue 20. [Complete transcript and sources here](/jello/2022/01/25/jellotranscript). Created in collaboration with [A. Service](http://alliaservice.com), who also wrote a  [companion blog post about our Jell-O party](http://alliaservice.com/2022/01/29/jello/).
+The history of gelatin and Jell-O from the 19th century to the
+present. Published in University of Oregon's comics magazine
+_ArtDucko_, issue 20. [Complete transcript and sources
+here](/jello/2022/01/25/jellotranscript). Created in collaboration
+with [A. Service](http://alliaservice.com), who also wrote a
+[companion blog post about our gelatin party](http://alliaservice.com/2022/01/29/jello/).
 
 <img align="left" src="assets/thumbnails/artofnews.png" style="padding:10px; height: 100px">
 
