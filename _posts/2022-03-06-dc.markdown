@@ -1,0 +1,11 @@
+---
+layout: post
+title: "03/06/22 "
+category: dailycomic
+tags: comics dailycomic
+---
+![Daily comic]({{ site.baseurl }}/assets/dailycomic/03_06_22.png)
+![Daily comic]({{ site.baseurl }}/assets/dailycomic/03_06_22_2.png)
+
+{% include navigation.html %}
+
