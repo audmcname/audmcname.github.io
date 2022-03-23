@@ -9,4 +9,5 @@ tags: comics jello
 
 {% include navigation.html %}
 
-[Transcript](/jello/2022/01/25/jellotranscript)
+[Transcript](/jello/2022/01/25/jellotranscript)\\
+[Buy a physical copy ](https://audmcname.bigcartel.com)[or a high-res pdf](https://audmcname.itch.io)

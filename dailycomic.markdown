@@ -13,4 +13,3 @@ permalink: /dailycomic/
 {% endfor %}
 
 _I'm taking 5 minutes every evening to draw a one-panel comic from my day, based on one of Lynda Barry's journaling methods_
-

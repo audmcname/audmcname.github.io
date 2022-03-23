@@ -5,6 +5,13 @@
 layout: home
 title: Home
 ---
+<br>
+<img align="left" src="assets/thumbnails/dailycomic.png" style="padding:10px; height: 100px">
+
+[Daily Comic](dailycomic/)
+-------------------
+Every day, more or less, a new 5-minute comic
+
 
 <br>
 <img align="left" src="assets/thumbnails/hooves.png" style="padding:10px; height: 100px">
