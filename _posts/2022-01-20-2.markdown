@@ -5,7 +5,7 @@ category: jello
 tags: comics jello
 ---
 
-![Cover](/assets/jellozine/2.png)
+![Cover](/assets/jellozine/02.png)
 
 {% include navigation.html %}
 

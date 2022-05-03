@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Page 5"
+title: "Page 9"
 category: jello
 tags: comics jello
 ---
 
-![Cover](/assets/jellozine/05.png)
+![Cover](/assets/jellozine/09.png)
 
 {% include navigation.html %}
 
