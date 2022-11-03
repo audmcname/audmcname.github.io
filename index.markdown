@@ -14,6 +14,16 @@ Every day, more or less, a new 5-minute comic
 
 
 <br>
+<img align="left" src="assets/thumbnails/lilian.png" style="padding:10px; height: 100px">
+
+[Dear Miss Tingle](tingle/2022/11/03/0)
+-------------------
+_Lonely college students salivate over illustrations of turkey dinners, bachelors struggle to bake cakes, housewives worry over canned beef, and Lilian Tingle advises them all._
+
+ Illustrating exchanges from domestic scientist Lilian Tingle’s home cooking correspondence column in the Sunday Oregonian (1908-1929). [Complete transcript and sources here](/tingle/2022/11/30/tingletranscript). Created in collaboration with
+and based on research by [A. Service](http://alliaservice.com). [More about Lilian Tingle here](https://liliantingle.nfshost.com).
+
+
 <img align="left" src="assets/thumbnails/hooves.png" style="padding:10px; height: 100px">
 
 [Jell-O Pages](jello/2022/01/18/0)

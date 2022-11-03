@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Page 10"
+category: tingle
+tags: comics tingle
+---
+
+![Cover](/assets/misstingle/10.png)
+
+{% include navigation.html %}
+
+[Transcript](/tingle/2022/11/30/tingletranscript)\\
+[Buy a physical copy ](https://audmcname.bigcartel.com)[or a high-res pdf](https://audmcname.itch.io)

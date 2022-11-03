@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Back Cover"
+category: tingle
+tags: comics tingle
+---
+
+![Cover](/assets/misstingle/17.png)
+
+{% include navigation.html %}
+
+[Transcript](/tingle/2022/11/30/tingletranscript)\\
+[Buy a physical copy ](https://audmcname.bigcartel.com)[or a high-res pdf](https://audmcname.itch.io)
