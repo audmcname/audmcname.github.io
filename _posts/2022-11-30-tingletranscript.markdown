@@ -21,3 +21,5 @@ tags: transcript tingle
 Citation links and full transcript at [audmcname.com](audmcname.com)
 
 Instagram and Twitter: [@audmcname](https://www.instagram.com/audmcname/)
+
+<!-- link to page: /tingle/2022/11/30/tingletranscript -->

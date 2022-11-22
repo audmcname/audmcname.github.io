@@ -5,13 +5,6 @@
 layout: home
 title: Home
 ---
-<br>
-<img align="left" src="assets/thumbnails/dailycomic.png" style="padding:10px; height: 100px">
-
-[Daily Comic](dailycomic/)
--------------------
-Every day, more or less, a new 5-minute comic
-
 
 <br>
 <img align="left" src="assets/thumbnails/lilian.png" style="padding:10px; height: 100px">
@@ -35,6 +28,16 @@ here](/jello/2022/01/25/jellotranscript). Created in collaboration
 with [A. Service](http://alliaservice.com), who also wrote a
 [companion blog post about our gelatin party](http://alliaservice.com/2022/01/29/jello/).
 
+
+<br>
+<img align="left" src="assets/thumbnails/dailycomic.png" style="padding:10px; height: 100px">
+
+[Daily Comic](dailycomic/)
+-------------------
+Every day, more or less, a new 5-minute comic (was regularly updated in 2022)
+
+
+<br>
 <img align="left" src="assets/thumbnails/artofnews.png" style="padding:10px; height: 100px">
 
 [The Art of the News: Comics Journalism](https://jsma.uoregon.edu/ComicsJournalism)
@@ -67,11 +70,11 @@ Alice Liddell is a journalist, her sister has gone missing. Written
 by a classmate, drawn by me (Spring 2021, ENG 407)
 
 
-<img align="left" src="assets/thumbnails/inhuman.png" style="padding:10px; height: 100px">
+<!-- <img align="left" src="assets/thumbnails/inhuman.png" style="padding:10px; height: 100px">
 
 [Inhuman Resources](https://j4red.itch.io/inhuman-resources)
 -------------------
-(External link) "Welcome to your first day at the Department of Organic Manpower! You have been tasked with a job of the utmost importance-- helping your lowly coworkers navigate to their target destinations." A game made in collaboration with classmates (Spring 2021, CIS 410)
+(External link) "Welcome to your first day at the Department of Organic Manpower! You have been tasked with a job of the utmost importance-- helping your lowly coworkers navigate to their target destinations." A game made in collaboration with classmates (Spring 2021, CIS 410) -->
 
 <br>
 <img align="left" src="assets/thumbnails/earth.png" style="padding:10px; height: 100px">

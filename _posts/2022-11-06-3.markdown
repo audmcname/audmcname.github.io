@@ -9,5 +9,5 @@ tags: comics tingle
 
 {% include navigation.html %}
 
-[Transcript](/tingle/2022/11/30/tingletranscript)\\
+[Citations](https://liliantingle.nfshost.com/zine/citations/)\\
 [Buy a physical copy ](https://audmcname.bigcartel.com)[or a high-res pdf](https://audmcname.itch.io)
