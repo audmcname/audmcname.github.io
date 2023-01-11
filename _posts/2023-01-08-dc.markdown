@@ -4,7 +4,6 @@ title: "01/08/23 "
 category: dailycomic
 tags: comics dailycomic
 ---
-![Daily comic]({{ site.baseurl }}/assets/dailycomic/01_08_23.png)
+![Daily comic]({{ site.baseurl }}/assets/dailycomic/23_01_08.png)
 
 {% include navigation.html %}
-
