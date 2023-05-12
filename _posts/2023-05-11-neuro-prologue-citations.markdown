@@ -5,16 +5,34 @@ category: neurocomic
 tags: neurocomic
 ---
 
-Legal Psilocybin Mushrooms in Oregon: a prologue
-——————————————————————————————————————————————-
+## Legal Psilocybin Mushrooms in Oregon: Prologue Citations
 
-[placeholder page]
+# [*Read the comic*](/assets/neuro_prologue.pdf)
 
-Citations
-———————————————————————-
+# Page 1:
 
-Page 1:
+# Page 2:
 
-Page 2:
+# Page 3:
 
-Page 3:
+# Page 4:
+
+# Page 5:
+
+# Page 6:
+
+# Page 7:
+
+# Page 8:
+
+# Page 9:
+
+# Page 10:
+
+# Page 11:
+
+# Page 12:
+
+# Page 13:
+
+# Page 14:
