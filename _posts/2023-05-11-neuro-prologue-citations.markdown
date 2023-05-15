@@ -9,4 +9,63 @@ tags: neurocomic
 
 # [*Read the comic*](/assets/neuro_prologue.pdf)
 
-*Citations in progress*
+# PAGE 1:
+ 
+[The QR code leads to ORS 475A](oregonlegislature.gov/bills_laws/ors/ors475A.html)
+	    
+The final adopted rules can be found on the Oregon Secretary of State website,
+under the [Oregon Health Authority Public Health Division Chapter 333, Division 333.](https://secure.sos.state.or.us/oard/displayDivisionRules.action?selectedDivision=7102)
+
+# PAGE 2: 
+
+More about M110 is at the [Oregon Health Authority’s Drug Addiction Treatment and 
+Recovery Act web page](oregon.gov/oha/hsd/amh/pages/measure110.aspx)
+
+# PAGE 3: 
+     
+The QR code leads to [Doss, M.K., Považan, M., Rosenberg, M.D. et al. Psilocybin 
+therapy increases cognitive and neural flexibility in patients with major depressive 
+disorder. Transl Psychiatry 11, 574 (2021).](doi.org/10.1038/s41398-021-01706-y)
+	     
+*Further reading:*
+
+[Davis AK, Barrett FS, May DG, et al. Effects of Psilocybin-Assisted Therapy 
+on Major Depressive Disorder: A Randomized Clinical Trial. JAMA Psychiatry. 
+2021;78(5):481–489.](doi.org/10.1001/jamapsychiatry.2020.3285)
+          
+[Oregon Psilocybin Advisory Board Rapid Evidence Review and Recommendations.]
+(oregon.gov/oha/PH/PREVENTIONWELLNESS/Documents/Oregon%20Psilocybin%20
+Advisory%20Board%20Rapid%20Evidence%20Review.pdf)
+
+# PAGE 4:
+
+Bryan Roth, personal correspondence.
+     
+Roland Griffiths, from Michael Pollan’s How to Change Your Mind.
+	     
+Monnica Williams quote from [“Psychedelics and Race: A Profile of Dr. Monnica T. 
+Williams”, written by Patricia Kubala in Society for Cultural Anthropology.](https://culanth.org/fieldsights/psychedelics-and-race-a-profile-of-dr-monnica-t-williams)
+
+#PAGE 7: 
+
+[Oregon Psilocybin Advisory Board Rapid Evidence Review and Recommendations, 
+page 12 and page 27.](oregon.gov/oha/PH/PREVENTIONWELLNESS/Documents/Oregon%20Psilocybin%20
+Advisory%20Board%20Rapid%20Evidence%20Review.pdf)
+
+#PAGE 10: 
+
+The trials by organizations currently furthest on the path towards FDA approval, 
+[Usona’s PSIL201 trial for Major Depressive Disorder](clinicaltrials.gov/ct2/show/NCT03866174?term=PSIL201&draw=2&rank=2)
+and [Compass Pathways’ COMP Single-Dose Psilocybin for a Treatment-Resistant Episode 
+of Major Depression](nejm.org/doi/full/10.1056/NEJMoa2206443), both gave 25mg of
+psilocybin to trial participants.
+
+#PAGE 11: 
+
+     Map of possible service center location from [Psychedelic Alpha’s Oregon Psilocybin 
+Services Act Local Jurisdiction Tracker.](psychedelicalpha.com/data/oregon-psilocybin-tracker)
+
+#PAGE 13: 
+
+     The previously mentioned Usona and Compass Pathways trials have three and two 
+integration sessions respectively.
