@@ -23,9 +23,7 @@ Recovery Act web page](oregon.gov/oha/hsd/amh/pages/measure110.aspx)
 
 # PAGE 3: 
      
-The QR code leads to [Doss, M.K., Považan, M., Rosenberg, M.D. et al. Psilocybin 
-therapy increases cognitive and neural flexibility in patients with major depressive 
-disorder. Transl Psychiatry 11, 574 (2021).](doi.org/10.1038/s41398-021-01706-y)
+The QR code leads to [Griffiths, Roland R et al. “Psilocybin produces substantial and sustained decreases in depression and anxiety in patients with life-threatening cancer: A randomized double-blind trial.” *Journal of psychopharmacology (Oxford, England*) vol. 30,12 (2016): 1181-1197.](doi.org/10.1177/0269881116675513)
 	     
 *Further reading:*
 
@@ -34,8 +32,8 @@ on Major Depressive Disorder: A Randomized Clinical Trial. JAMA Psychiatry.
 2021;78(5):481–489.](doi.org/10.1001/jamapsychiatry.2020.3285)
           
 [Oregon Psilocybin Advisory Board Rapid Evidence Review and Recommendations.]
-(oregon.gov/oha/PH/PREVENTIONWELLNESS/Documents/Oregon%20Psilocybin%20
-Advisory%20Board%20Rapid%20Evidence%20Review.pdf)
+(oregon.gov/oha/PH/PREVENTIONWELLNESS/Documents/Oregon\%20Psilocybin\%20
+Advisory\%20Board\%20Rapid\%20Evidence\%20Review.pdf)
 
 # PAGE 4:
 
@@ -49,8 +47,8 @@ Williams”, written by Patricia Kubala in Society for Cultural Anthropology.](h
 #PAGE 7: 
 
 [Oregon Psilocybin Advisory Board Rapid Evidence Review and Recommendations, 
-page 12 and page 27.](oregon.gov/oha/PH/PREVENTIONWELLNESS/Documents/Oregon%20Psilocybin%20
-Advisory%20Board%20Rapid%20Evidence%20Review.pdf)
+page 12 and page 27.](oregon.gov/oha/PH/PREVENTIONWELLNESS/Documents/Oregon\%20Psilocybin\%20
+Advisory\%20Board\%20Rapid\%20Evidence\%20Review.pdf)
 
 #PAGE 10: 
 
