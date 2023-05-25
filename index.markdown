@@ -7,15 +7,27 @@ title: Home
 ---
 
 <br>
+<img align="left" src="assets/thumbnails/riprss.png"
+style="padding:10px; height:100px">
+
+[RSS Is (Not) Dead (Yet)](rss/2023/05/09/0)
+-------------------------
+
+_How monopolies are destroying blogs, podcasts, and webcomics._
+
+Illustrating the history of RSS. Created in collaboration with [A.
+Service](alliaservice.com), and debuted at VanCAF 2023. Part two on how to use RSS forthcoming!
+
+
 <img align="left" src="assets/thumbnails/lilian.png" style="padding:10px; height: 100px">
 
 [Dear Miss Tingle](tingle/2022/11/03/0)
 -------------------
 _Lonely college students salivate over illustrations of turkey dinners, bachelors struggle to bake cakes, housewives worry over canned beef, and Lilian Tingle advises them all._
 
- Illustrating exchanges from domestic scientist Lilian Tingle’s home cooking correspondence column in the Sunday Oregonian (1908-1929). [Complete transcript and sources here](/tingle/2022/11/30/tingletranscript). Created in collaboration with
+ Illustrating exchanges from domestic scientist Lilian Tingle’s home cooking correspondence column in the Sunday Oregonian (1908-1929). [Complete sources here](https://liliantingle.nfshost.com/zine/citations/). Created in collaboration with
 and based on research by [A. Service](http://alliaservice.com). [More about Lilian Tingle here](https://liliantingle.nfshost.com).
-
+(November 2022)
 
 <img align="left" src="assets/thumbnails/hooves.png" style="padding:10px; height: 100px">
 
@@ -29,13 +41,13 @@ with [A. Service](http://alliaservice.com), who also wrote a
 [companion blog post about our gelatin party](http://alliaservice.com/2022/01/29/jello/).
 
 
-<br>
 <img align="left" src="assets/thumbnails/dailycomic.png" style="padding:10px; height: 100px">
 
 [Daily Comic](dailycomic/)
 -------------------
 Every day, more or less, a new 5-minute comic (was regularly updated in 2022)
 
+<br>
 
 <br>
 <img align="left" src="assets/thumbnails/artofnews.png" style="padding:10px; height: 100px">

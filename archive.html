@@ -23,6 +23,17 @@ permalink: /archives/
 {% endfor %} -->
 
 <p></p>
+<h1> RSS Is (Not) Dead (Yet) Archive </h1>
+<select name="RSS is (not) dead (yet)  Archive" onchange="location = this.value;">
+
+          {% for post in site.posts reversed %}
+          {% if post.tags contains 'rss' %}
+          >- <option value="{{ post.url }}">{{ post.title }}</option>
+          {% endif %}
+          {% endfor %}
+</select>
+
+<p></p>
 <h1> Dear Miss Tingle Archive </h1>
 <select name="Dear Miss Tingle Archive" onchange="location = this.value;">
 
@@ -100,3 +111,5 @@ permalink: /archives/
           {% endif %}
           {% endfor %}
 </select>
+
+<!-- <h1> Complete Works </h1> -->

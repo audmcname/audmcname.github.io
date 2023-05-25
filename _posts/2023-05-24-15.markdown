@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Back Cover"
+category: rss
+tags: comics rss
+---
+
+![Cover](/assets/riprss/15.png)
+
+{% include navigation.html %}
+
+[Buy a physical copy ](https://audmcname.bigcartel.com)[or a high-res pdf](https://audmcname.itch.io)
