@@ -4,8 +4,11 @@ title: About
 permalink: /about/
 ---
 {% include left-image.html image_path="/assets/profile.png" alt="profile
-picture" description="Audra McNamee makes educational comics on topics
-ranging from computer science to the history of Jell-O.
+picture" description="Audra McNamee is a nonfiction cartoonist based in Oregon who makes
+comics on topics ranging from computer science to the history of
+Jell-O.
+
+Audra’s comics have been featured in The Nib, the Oregon Quarterly, and UO’s comics magazine ArtDucko. Audra has taught comics classes at Portland Community College.
 
 Audra graduated from the University of Oregon
 in 2022 with a major in Math and Computer Science and a minor in Comics
