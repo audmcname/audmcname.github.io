@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "aud mcname"
+title: "good left hand daily comics"
 author:
-  name: "A. McNamee"
+  name: "Audra McNamee"
   email: audmcname@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Made with my good left hand.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://audmcname.com # the base hostname & protocol for your site, e.g. http://example.com
+url: https://dailycomic.audmcname.com # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: audmcname
 instagram_username: audmcname
 # github_username:  audmcname
@@ -37,9 +37,6 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-# Google services
-google_analytics: UA-179005998-1
 
 # Exclude from processing.
 # The following items will not be processed, by default.
