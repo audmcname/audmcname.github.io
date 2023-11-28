@@ -21,12 +21,20 @@
             {% if currIndex == 0 %}
               <a class="next0" href="{{ site.url }}{{ site.baseurl
               }}{{ sorted_articles[nextIndex].url }}">&laquo; prev </a>
+              <a class="random" href="{{ site.url }}{{ site.baseurl
+              }}/random/"> random </a>
             {% elsif currIndex < articleIndexLength and currIndex != 0 %}
               <a class="prev" href="{{ site.url }}{{ site.baseurl }}{{
               sorted_articles[nextIndex].url }}">&laquo; prev </a>
+              <!-- added random button to navigation bar in all three cases.
+              -->
+              <a class="random" href="{{ site.url }}{{ site.baseurl
+              }}/random/"> random </a>
               <a class="next" href="{{ site.url }}{{ site.baseurl }}{{
               sorted_articles[prevIndex].url }}"> next &raquo;</a>
             {% elsif currIndex == articleIndexLength %}
+              <a class="random" href="{{ site.url }}{{ site.baseurl
+              }}/random/"> random </a>
               <a class="prev" href="{{ site.url }}{{ site.baseurl }}{{
               sorted_articles[prevIndex].url }}"> next &raquo;</a>
             {% endif %}
