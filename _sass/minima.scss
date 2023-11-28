@@ -19,9 +19,10 @@ $brand-color:      #2a7ae2 !default;
 $brand-color:           #3E6130;
 
 $text-color:            #272E23;
-$background-color:      #B4C7AD;
+$background-color:      #DCDDA9;
 
-$link-base-color:       #329409;
+$brand-color:           #ff6a00; // link base color didn't change links
+$link-base-color:       #ff6a00;
 $link-visited-color:    darken($link-base-color, 15%);
 // overwrite ends
 
