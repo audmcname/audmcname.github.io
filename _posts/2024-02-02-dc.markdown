@@ -1,0 +1,11 @@
+---
+layout: post
+title: "02/02/24 "
+category: dailycomic
+tags: comics dailycomic
+---
+![Daily comic]({{ site.baseurl }}/assets/dailycomic/24_02_02.jpg)
+![Daily comic]({{ site.baseurl }}/assets/dailycomic/24_02_02_2.jpg)
+
+{% include navigation.html %}
+
