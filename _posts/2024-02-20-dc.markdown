@@ -4,7 +4,7 @@ title: "02/20/24 "
 category: dailycomic
 tags: comics dailycomic
 ---
-![Daily comic]({{ site.baseurl }}/assets/dailycomic/24_02_20.jpg)
+![Daily comic]({{ site.baseurl }}/assets/dailycomic/24_02_20.jpeg)
 
 {% include navigation.html %}
 
