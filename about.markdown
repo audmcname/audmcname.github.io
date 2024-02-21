@@ -11,3 +11,5 @@ _I spend 5 minutes in the evening to draw a one-panel comic from my day, based o
 This is my daily comic website. [Here is my main website](https://audmcname.com), for comics drawn in more than 5 minutes and illustrations and stuff.
 
 This website is hosted on GitHub pages using Jekyll.
+
+![Daily comic supplies]({{ site.baseurl }}/assets/dailycomicsupplies.png)
