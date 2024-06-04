@@ -1,0 +1,10 @@
+---
+layout: post
+title: "05/31/24 "
+category: dailycomic
+tags: comics dailycomic
+---
+![Daily comic]({{ site.baseurl }}/assets/dailycomic/24_05_31.jpg)
+
+{% include navigation.html %}
+
