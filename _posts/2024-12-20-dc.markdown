@@ -6,5 +6,7 @@ tags: comics dailycomic
 ---
 ![Daily comic]({{ site.baseurl }}/assets/dailycomic/24_12_20.jpg)
 
+By [Allia Service](alliaservice.com)
+
 {% include navigation.html %}
 

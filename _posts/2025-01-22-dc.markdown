@@ -1,0 +1,13 @@
+---
+layout: post
+title: "01/22/25 "
+category: dailycomic
+tags: comics dailycomic
+---
+![Daily comic]({{ site.baseurl }}/assets/dailycomic/25_01_22.jpg)
+![Daily comic]({{ site.baseurl }}/assets/dailycomic/25_01_22_2.jpg)
+
+After four years, I've drawn 365 comics (366 actually) as of today.
+
+{% include navigation.html %}
+
