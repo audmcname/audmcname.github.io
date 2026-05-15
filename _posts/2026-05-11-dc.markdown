@@ -4,7 +4,7 @@ title: "05/11/26 "
 category: dailycomic
 tags: comics dailycomic
 ---
-![Daily comic]({{ site.baseurl }}/assets/dailycomic/26_05_11.jpg)
+![Daily comic]({{ site.baseurl }}/assets/dailycomic/26_05_11.png)
 
 {% include navigation.html %}
 
