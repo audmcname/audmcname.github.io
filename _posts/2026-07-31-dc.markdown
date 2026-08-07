@@ -1,0 +1,12 @@
+---
+layout: post
+title: "07/31/26 "
+category: dailycomic
+tags: comics dailycomic
+---
+![Daily comic]({{ site.baseurl }}/assets/dailycomic/26_07_31.png)
+![Daily comic]({{ site.baseurl }}/assets/dailycomic/26_07_31_2.png)
+![Daily comic]({{ site.baseurl }}/assets/dailycomic/26_07_31_3.png)
+
+{% include navigation.html %}
+
