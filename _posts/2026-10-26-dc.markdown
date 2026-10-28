@@ -1,0 +1,12 @@
+---
+layout: post
+title: "10/26/26 "
+category: dailycomic
+tags: comics dailycomic
+---
+![Daily comic]({{ site.baseurl }}/assets/dailycomic/26_10_26.png)
+![Daily comic]({{ site.baseurl }}/assets/dailycomic/26_10_26_2.png)
+![Daily comic]({{ site.baseurl }}/assets/dailycomic/26_10_26_3.png)
+
+{% include navigation.html %}
+
